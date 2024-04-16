@@ -1,7 +1,7 @@
 'use strict';
 $(() => {
     
-    document.title = `${pageData.name} « Iowa City Robotics`;
+    document.title = `${pageData.name} «  Lakes Area Robotics`;
     
     const mainDiv = $('main');
     
