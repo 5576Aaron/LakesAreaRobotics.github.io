@@ -39,7 +39,7 @@
 }
 
 #banner-bg-alt {
-    background-image: url(../../img/frontpage/2019banner.jpg);
+    background-image: url(../../img/frontpage/Index.jpg);
 }
 
 #banner-caption {
@@ -56,8 +56,8 @@
     position: absolute; display: block;
     top: 70%; left: 50%;
     transform: translate(-50%, -50%);
-    color: #ec1c24;
-    background-color: #2CB34D;
+    color: #ffffff;
+    background-color: #ec1c24;
     transition: 0.25s;
     box-shadow: 0 2px 16px -2px #000000
 }
