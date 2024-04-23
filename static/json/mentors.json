@@ -1,44 +1,44 @@
 [
   {
-    "name": "Mike Pownell",
-    "tag": "BAE Systems",
-    "img": "pownell.mike.png",
-    "bio":""
+    "name": "Aaron Carr",
+    "tag": "AGCO Corporation",
+    "img": "no-image-square.jpg",
+    "bio":"Since 2023, Aaron has been the head coach for Team Terminator"
   },
   {
-    "name": "Chris Markovich",
-    "tag":  "Intelsat",
-    "img": "markovich.chris.jpg",
-    "bio":""
+    "name": "Joe Parks",
+    "tag":  "Northern Iowa Die Casting",
+    "img": "no-image-square.jpg",
+    "bio":"Mentoring Team Terminator since 2023, Joe runs the hardware and manufacturing for the team"
   },
   {
-    "name": "Madison Kriege",
-    "tag": "Pearson Assessments",
-    "img": "kriege.madison.jpg",
-    "bio":"Test, what does this do :/"
+    "name": "Emery Groen",
+    "tag": "Seasons Center",
+    "img": "no-image-square.jpg",
+    "bio":"Starting this year, Emery helps with the mechanical and robot builds, as well as branding and social media"
   },
   {
-    "name": "Jacob Schares",
-    "tag":  "City High School",
-    "img": "schares.jacob.jpg",
-    "bio":""
+    "name": "Austin Thoreson",
+    "tag":  "AGCO Corporation",
+    "img": "no-image-square.jpg",
+    "bio":"Austin is the local software guru for the team, starting as a high school mentor this year"
   },
   {
-    "name": "Michael Livermore",
-    "tag":  "Veenstra & Kimm",
-    "img": "livermore.michael.jpg",
-    "bio":""
+    "name": "Claudia Schimek",
+    "tag":  "Hope Haven",
+    "img": "no-image-square.jpg",
+    "bio":"Claudia is a new mentor for 2024, helping with team communications, branding, and shop improvements"
   },
   {
-    "name": "Razzi Abuissa",
+    "name": "Andrew Nilles",
     "tag":  "Self-Employed",
     "img": "no-image-square.jpg",
-    "bio":""
+    "bio":"Andrew is a new mentor in 2024, teaching students design and manufacturing principles"
   },
   {
-    "name": "Paul Livermore",
-    "tag":  "Raytheon - Collins Aerospace",
-    "img": "Paul_Corn.jpg",
+    "name": "FLL Coach",
+    "tag":  "TBD",
+    "img": "no-image-square.jpg",
     "bio":""
   }
 ]

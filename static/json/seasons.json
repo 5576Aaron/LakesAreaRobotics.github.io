@@ -405,104 +405,26 @@
             "media": "yt:W6UYFKNGHJ8"
         },
         "robot": {
-            "name": "Shanequa",
+            "name": "The Godfather",
             "media": "yt:aiDqPDMbpMw",
-            "goal": "This year, our goal was to create a robot able to create tall stacks via a forklift-like system.",
+            "goal": "In our rookie season, we build a tote stacking robot with automated elevator controls.",
             "features": [
-                "Mechanum omnidirectional drive",
-                "Pneumatic clamping forklift"
+                "Limit switch controlled elevators",
+                "Polycarbonate lift hooks"
             ]
         },
         "regionals": [
             {
-                "name": "Wisconsin Regional",
+                "name": "North Star Regional",
                 "media": "li:team.jpg",
-                "placing": "48th seed; eliminated in quarterfinals"
-            },
-            {
-                "name": "Minnesota 10000 Lakes Regional",
-                "media": "nu",
-                "placing": "8th seed; eliminated in quarterfinals"
+                "placing": "3rd seed; eliminated in finals",
+                "notes": "Rookie All-Star Award Winner, Highest Rookie Seed Award, Finalist Captain"
             }
         ],
         "gallery": [
             {
                 "media": "li:banner.jpg",
                 "caption": "Our robot"
-            }
-        ]
-    },
-    "2014": {
-        "name": "Aerial Assist",
-        "banner": "banner.jpg",
-        "game": {
-            "desc": "In Aerial Assist, teams work to move large exercise balls down the field. Teams earn large bonuses for assisting teammates in scoring.",
-            "media": "yt:f5zWzICG5to"
-        },
-        "robot": {
-            "name": "Daenerys",
-            "media": "li:banner.jpg",
-            "goal": "Description unavailable",
-            "features": [
-                "Unavailable"
-            ]
-        },
-        "regionals": [
-            {
-                "name": "Central Illinois Regional",
-                "media": "nu",
-                "placing": "9th seed; eliminated in quarterfinals"
-            },
-            {
-                "name": "Wisconsin Regional",
-                "media": "nu",
-                "placing": "11th seed; eliminated in semifinals"
-            }
-        ]
-    },
-    "2013": {
-        "name": "Ultimate Ascent",
-        "banner": "banner.jpg",
-        "game": {
-            "desc": "In Ultimate Ascent, teams pick up and launch frisbees into narrow goals above the field. Then, teams scale a runged pyramid.",
-            "media": "yt:wa5MGEZNrf0"
-        },
-        "robot": {
-            "name": "Samantha",
-            "media": "li:banner.jpg",
-            "goal": "Description unavailable",
-            "features": [
-                "Unavailable"
-            ]
-        },
-        "regionals": [
-            {
-                "name": "Wisconsin Regional",
-                "media": "nu",
-                "placing": "25th seed; eliminated in quarterfinals"
-            }
-        ]
-    },
-    "2012": {
-        "name": "Rebound Rumble",
-        "banner": "banner.jpg",
-        "game": {
-            "desc": "In Rebound Rumble, teams try to score foam basketballs in baskets with vision targets.",
-            "media": "yt:nOXsdhZZSdM"
-        },
-        "robot": {
-            "name": "Robot Name",
-            "media": "li:banner.jpg",
-            "goal": "Description unavailable",
-            "features": [
-                "Unavailable"
-            ]
-        },
-        "regionals": [
-            {
-                "name": "Wisconsin Regional",
-                "media": "nu",
-                "placing": "12th seed; eliminated in finals"
             }
         ]
     }
