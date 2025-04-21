@@ -1,7 +1,7 @@
 The MIT License (MIT)
 =====================
 
-Copyright © 2024 Lakes Area Robotics
+Copyright © 2025 Lakes Area Robotics
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
